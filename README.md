@@ -1,2 +1,2 @@
 # Stop-Watch-Project
-็็HTML CSS JAVASCRIPT
+HTML CSS JAVASCRIPT
